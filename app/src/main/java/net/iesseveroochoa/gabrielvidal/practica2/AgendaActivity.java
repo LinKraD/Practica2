@@ -29,7 +29,6 @@ public class AgendaActivity extends AppCompatActivity {
         btAceptar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                tvContacto.;
 
             }
         });
