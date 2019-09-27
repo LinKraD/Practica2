@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_minombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:text="@string/minombre" />
+
+    <Button
+        android:id="@+id/bt_Agenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/agenda"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="77dp" />
+
+    <Button
+        android:id="@+id/bt_Calculadora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calculadora"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="180dp" />
+
+    <Button
+        android:id="@+id/bt_Receta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/receta"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="312dp" />
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="minombre">Gabriel Vidal Fuente</string>
+    <string name="agenda">Agenda</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="receta">Receta</string>
+    <string name="nombre">Nombre</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">eMail</string>
+    <string name="notas">Notas</string>
+</resources>
