@@ -29,5 +29,21 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        btCalculadora.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(MainActivity.this, CalculadoraActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        btReceta.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(MainActivity.this, RecetaActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }

@@ -65,7 +65,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            tools:text="eMail" />
+            tools:text="eMail"
+            tools:ignore="TextFields" />
     </LinearLayout>
 
     <LinearLayout
@@ -96,8 +97,9 @@
     <EditText
         android:id="@+id/et_Notas"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_weight="1"
+        android:background="#D084ECE7"
         android:ems="10"
         android:gravity="start|top"
         android:inputType="textMultiLine"
@@ -113,21 +115,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Aceptar" />
+            android:text="@string/aceptar"
+            tools:ignore="ButtonStyle" />
 
         <Button
             android:id="@+id/bt_Reiniciar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Reiniciar" />
+            android:text="@string/reiniciar"
+            tools:ignore="ButtonStyle" />
 
         <Button
             android:id="@+id/bt_Salir"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Salir" />
+            android:text="@string/salir"
+            tools:ignore="ButtonStyle" />
     </LinearLayout>
 
 

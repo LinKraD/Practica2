@@ -10,4 +10,24 @@
     <string name="telefono">Telefono</string>
     <string name="email">eMail</string>
     <string name="notas">Notas</string>
+    <string name="calculadora_simple">Calculadora Simple</string>
+    <string name="numero_1">Numero 1:</string>
+    <string name="numero_2">Numero 2:</string>
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="division">/</string>
+    <string name="multiplicacion">*</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="salir">Salir</string>
+    <string name="intercambiar">Intercambiar</string>
+    <string name="resultado">Resultado</string>
+    <string name="todo">TODO</string>
+    <string name="descripcion">Descripción</string>
+    <string name="texto_descripcion">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum vehicula tortor at pharetra. Donec tempus libero vulputate lorem elementum, nec egestas ex mattis. Aliquam ac est in risus faucibus rutrum. Aenean ultricies varius mollis. Mauris quis nulla ut enim dictum vestibulum. Curabitur blandit volutpat eros, in convallis arcu. Aenean porta in massa nec cursus.</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="texto_ingredientes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu pellentesque arcu. Curabitur posuere accumsan ultrices. Etiam bibendum luctus convallis. Suspendisse potenti. Pellentesque pretium lacus justo, a facilisis elit euismod quis. Cras a faucibus leo, ac aliquam tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="texto_receta">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat tortor ante, non rutrum velit fringilla eget. Nunc facilisis elit at purus euismod sagittis. Aenean vitae blandit lacus. Curabitur enim quam, condimentum ac massa rutrum, rhoncus maximus magna. Cras tempor, nibh eu bibendum viverra, nisl nibh venenatis neque, nec tincidunt neque ligula lacinia arcu. Fusce condimentum magna in tempus eleifend. Morbi tincidunt, magna sit amet molestie varius, ipsum metus vulputate ex, id viverra enim odio quis ante. Proin semper dui quis urna pellentesque malesuada. Cras ac ipsum mattis, cursus massa ac, hendrerit nibh. Proin bibendum risus et accumsan dictum. Vestibulum posuere accumsan arcu non dignissim. Mauris ut orci nisi. Nam ut lectus nibh. Sed auctor luctus turpis, quis bibendum nunc sodales a.</string>
+    <string name="nombre_receta">Tarta de chocolate blanco y galletas Oreo</string>
 </resources>
